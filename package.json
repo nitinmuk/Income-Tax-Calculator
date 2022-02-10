@@ -1,0 +1,14 @@
+{
+  "name": "pairing-exercise-ctv",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "author": "Porter, Kory <kporter@nine.com.au>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
